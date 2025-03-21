@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Change from branchA - this is version A
+Change from branchB - this is version B
